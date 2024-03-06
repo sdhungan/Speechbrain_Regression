@@ -55,10 +55,10 @@ class EmoIdBrain(sb.Brain):
         # Sum the squared differences
         loss = torch.mean(squared_diff)
 
-        print("Target value is: ", target)
-        print("Predicted value is: ", predictions)
-        print("Squared difference is: ", squared_diff)
-        print("Loss is: ", loss)
+        #print("Target value is: ", target)
+        #print("Predicted value is: ", predictions)
+        #print("Squared difference is: ", squared_diff)
+        #print("Loss is: ", loss)
 
         if stage != sb.Stage.TRAIN:
             # Update the evaluation metrics
