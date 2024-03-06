@@ -60,7 +60,7 @@ out_n_neurons: 2
 dataloader_options:
     batch_size: !ref <batch_size>
     shuffle: True
-    num_workers: 2  # 2 on linux but 0 works on windows
+    num_workers: 0  # 2 on linux but 0 works on windows
     drop_last: False
 
 # Wav2vec2 encoder

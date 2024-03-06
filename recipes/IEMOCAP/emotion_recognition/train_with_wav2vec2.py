@@ -37,28 +37,35 @@ class EmoIdBrain(sb.Brain):
         return outputs
 
     def compute_objectives(self, predictions, batch, stage):
-        """Computes the loss using speaker-id as label.
-        
-        emoid, _ = batch.emo_encoded
+        valance, arousal = batch.valance, batch.arousal
 
-        # to meet the input form of nll loss
-        emoid = emoid.squeeze(1)
-        loss = self.hparams.compute_cost(predictions, emoid)
-        if stage != sb.Stage.TRAIN:
-            self.error_metrics.append(batch.id, predictions, emoid)
+        valance_tensor = torch.tensor([float(valance[0].strip("['']"))])
+        arousal_tensor = torch.tensor([float(arousal[0].strip("['']"))])
 
-        return loss
-        """
-        valence, arousal = batch.valence, batch.arousal
+         # Ensure both tensors are on the same device
+        valance_tensor = valance_tensor.to(predictions.device)
+        arousal_tensor = arousal_tensor.to(predictions.device)
 
-        # Compute Mean Squared Error Loss
-        loss = self.hparams.compute_cost(predictions, torch.stack([valence, arousal], dim=1))
-        
+        # Stacking along dimension 1
+        target = torch.stack([valance_tensor, arousal_tensor], dim=1)
+
+        # Calculate squared differences
+        squared_diff = (predictions - target) ** 2
+
+        # Sum the squared differences
+        loss = torch.mean(squared_diff)
+
+        print("Target value is: ", target)
+        print("Predicted value is: ", predictions)
+        print("Squared difference is: ", squared_diff)
+        print("Loss is: ", loss)
+
         if stage != sb.Stage.TRAIN:
             # Update the evaluation metrics
-            self.error_metrics.append(batch.id, predictions, torch.stack([valence, arousal], dim=1))
+            self.error_metrics.append(batch.id, predictions, target)
 
         return loss
+
 
     def on_stage_start(self, stage, epoch=None):
         """Gets called at the beginning of each epoch.
@@ -226,7 +233,7 @@ def dataio_prep(hparams):
             json_path=data_info[dataset],
             replacements={"data_root": hparams["data_folder"]},
             dynamic_items=[audio_pipeline, label_pipeline],
-            output_keys=["id", "sig", "valence", "arousal"],  # Update output keys
+            output_keys=["id", "sig", "valance", "arousal"],  # Update output keys
         )
 
     return datasets
