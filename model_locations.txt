@@ -1,0 +1,3 @@
+Speechbrain_Regression/recipes/huggingface_repo/model.ckpt
+Speechbrain_Regression/recipes/huggingface_repo/wav2vec2.ckpt
+Speechbrain_Regression/recipes/results/train_with_wav2vec2/1993/save/* (see results zip)

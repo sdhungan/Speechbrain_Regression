@@ -1,2 +1,5 @@
 recipes/IEMOCAP/emotion_recognition/results/
 **/.DS_Store
+recipes/results/train_with_wav2vec2/1993/save
+*.ckpt
+speechbrain/wav2vec2_checkpoints/*
