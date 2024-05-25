@@ -10,7 +10,7 @@ __set_seed: !apply:torch.manual_seed [!ref <seed>]
 
 # Dataset will be downloaded to the `data_original`
 data_folder: /Users/safaldhungana/Documents/University/Masterproef/Audio_data/IEMOCAP_full_release  # e.g., /path/to/IEMOCAP_full_release
-output_folder: !ref Speechbrain_Regression/results/train_with_wav2vec2/<seed>
+output_folder: !ref Speechbrain_regression/results/train_with_wav2vec2/<seed>
 save_folder: !ref <output_folder>/save
 train_log: !ref <output_folder>/train_log.txt
 
