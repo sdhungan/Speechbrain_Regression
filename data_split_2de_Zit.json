@@ -1,0 +1,189 @@
+{
+    "train": {
+        "Session1": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script01_1.txt"
+        ],
+        "Session2": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_script01_2.txt"
+        ],
+        "Session3": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro05b.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro08b.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro05a.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro07.txt"
+        ],
+        "Session4": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro07.txt"
+        ],
+        "Session5": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script01_3.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script03_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script01_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro02.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro04.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_impro06.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script01_3.txt"
+        ]
+    },
+    "val": {
+        "Session1": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro04.txt"
+        ],
+        "Session2": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro01.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02M_impro06.txt"
+        ],
+        "Session3": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_impro08a.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_impro03.txt"
+        ],
+        "Session4": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script03_2.txt"
+        ],
+        "Session5": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro04.txt"
+        ]
+    },
+    "test": {
+        "Session1": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01M_impro07.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session1/dialog/EmoEvaluation/Ses01F_impro01.txt"
+        ],
+        "Session2": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_impro05.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script01_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session2/dialog/EmoEvaluation/Ses02F_script03_1.txt"
+        ],
+        "Session3": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script03_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03F_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session3/dialog/EmoEvaluation/Ses03M_script03_2.txt"
+        ],
+        "Session4": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_script02_1.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04M_impro03.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session4/dialog/EmoEvaluation/Ses04F_impro01.txt"
+        ],
+        "Session5": [
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05F_script02_2.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_impro08.txt",
+            "/Users/safaldhungana/Documents/University/Masterproef/Project_Folder/Audio_files/IEMOCAP_full_release/Session5/dialog/EmoEvaluation/Ses05M_script01_1b.txt"
+        ]
+    }
+}
