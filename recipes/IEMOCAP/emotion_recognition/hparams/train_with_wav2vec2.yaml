@@ -36,11 +36,11 @@ skip_prep: False
 train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
     save_file: !ref <train_log>
 
-ckpt_interval_minutes: 15 # save checkpoint every N min
+ckpt_interval_minutes: 1 # save checkpoint every N min
 
 # Training parameters
 number_of_epochs: 30
-batch_size: 3
+batch_size: 10
 lr: 0.0001
 lr_wav2vec2: 0.00001
 
