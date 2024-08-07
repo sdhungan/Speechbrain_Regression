@@ -38,6 +38,7 @@ train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
 
 ckpt_interval_minutes: 1 # save checkpoint every N min
 
+
 # Training parameters
 number_of_epochs: 30
 batch_size: 2
