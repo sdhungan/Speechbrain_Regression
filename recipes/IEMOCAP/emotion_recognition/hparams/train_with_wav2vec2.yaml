@@ -41,9 +41,9 @@ ckpt_interval_minutes: 1 # save checkpoint every N min
 
 # Training parameters
 number_of_epochs: 30
-batch_size: 2
-lr: 0.001
-lr_wav2vec2: 0.0001
+batch_size: 1
+lr: 0.0001
+lr_wav2vec2: 0.00001
 
 #freeze all wav2vec2
 freeze_wav2vec2: False
@@ -106,13 +106,13 @@ wav2vec2_opt_class: !name:torch.optim.Adam
 lr_annealing: !new:speechbrain.nnet.schedulers.NewBobScheduler
     initial_value: !ref <lr>
     improvement_threshold: 0.0025
-    annealing_factor: 0.9
+    annealing_factor: 0.7
     patient: 0
 
 lr_annealing_wav2vec2: !new:speechbrain.nnet.schedulers.NewBobScheduler
     initial_value: !ref <lr_wav2vec2>
     improvement_threshold: 0.0025
-    annealing_factor: 0.9
+    annealing_factor: 0.7
 
 checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
     checkpoints_dir: !ref <save_folder>
