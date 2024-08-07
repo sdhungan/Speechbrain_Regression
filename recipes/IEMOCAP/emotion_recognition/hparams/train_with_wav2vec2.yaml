@@ -40,9 +40,9 @@ ckpt_interval_minutes: 1 # save checkpoint every N min
 
 # Training parameters
 number_of_epochs: 30
-batch_size: 3
+batch_size: 2
 lr: 0.001
-lr_wav2vec2: 0.00001
+lr_wav2vec2: 0.0001
 
 #freeze all wav2vec2
 freeze_wav2vec2: False
